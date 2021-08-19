@@ -1,0 +1,320 @@
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateau: ---> Rover 1: X: 5, Y: 1, Orientation: E---> Rover 2: X: 5, Y: 1, Orientation: E
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateau: ---> Rover 1: X: 1, Y: 3, Orientation: N---> Rover 2: X: 5, Y: 1, Orientation: E
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateau: ---> Rover 1: X: 1, Y: 3, Orientation: N---> Rover 2: X: 5, Y: 1, Orientation: E
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateau: ---> Rover 1: X: 1, Y: 3, Orientation: N---> Rover 2: X: 5, Y: 1, Orientation: E
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateau: ---> Rover 1: X: 1, Y: 3, Orientation: N---> Rover 2: X: 5, Y: 1, Orientation: E
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: R
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: R
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: R
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: R
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: R
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: R
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: R
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Rover X: 3, Rover Y: 3, Orientation: E
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: M
+Processing move: R
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: M
+Plateau: ---> Rover 1: X: 1, Y: 3, Orientation: N---> Rover 2: X: 5, Y: 1, Orientation: E
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: L
+Processing move: R
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: R
+Processing move: R
+Processing move: R
+Processing move: R
+Plateu dimensions: upper right X: 5, upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: N
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: L
+Processing move: M
+Processing move: M
+Plateau: ---> Rover 1: X: 1, Y: 3, Orientation: N
